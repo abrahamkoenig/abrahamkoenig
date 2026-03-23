@@ -10,7 +10,7 @@ Founder @ **Koenig IT** | Based in Munich
 
 ## Tech I use
 
-`Python` `Claude API` `Telegram Bot API` `Philips Hue API` `FRITZ!Box API` `HomeKit` `Apple Shortcuts` `LinkedIn API`
+`Python` `Claude API` `Telegram Bot API` `Philips Hue API` `HomeKit` `Apple Shortcuts` `LinkedIn API`
 
 ## Get in touch
 
