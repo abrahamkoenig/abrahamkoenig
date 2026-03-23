@@ -14,4 +14,4 @@ Founder @ **Koenig IT** | Based in Munich
 
 ## Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abrahamkoenig-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abrahamkoenig/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abraham--koenig-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abraham-koenig/)
